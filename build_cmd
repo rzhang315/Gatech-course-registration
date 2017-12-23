@@ -1,0 +1,1 @@
+python -m PyInstaller -w -i sushi.ico -n GTEnroll main_app.py
